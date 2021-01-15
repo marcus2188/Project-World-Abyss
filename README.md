@@ -1,7 +1,7 @@
 # Project-World-Abyss
 Welcome to the abyss of the world, where you can learn about continents, countries and cities. 
 
-World_Abyss is made through experimentation using Python's GUI library such as PyQt5, showcasing the flexibility of PyQt5 and/or Pyside2 to design interfaces.People often say GUI is not a strength of Python, but here they will be proven wrong. PyQt is an excellent way to bring python into the realm of graphical interfaces, albeit among the sea of other frameworks such as Tkinter and wxpython. All elements are built from the ground up using tools and widgets. 
+World_Abyss is a **conceptual desktop application made through experimentation just to showcase the power of PyQt5 and/or Pyside2** to design user interfaces, as such it is not completely feature-packed. People often say GUI is not a strength of Python, but here they will be proven wrong. PyQt is an excellent way to bring python into the realm of graphical interfaces, albeit among the sea of other frameworks such as Tkinter and wxpython. All elements are built from the ground up using tools and widgets. 
 
 I designed World_Abyss with inspirational cues from the modern flat industrial design as featured in macOS Big Sur. As such, this desktop application is implemented through Apple's Mac system, but it is compatible with Windows and Linux because it is cross-platform. 
 
