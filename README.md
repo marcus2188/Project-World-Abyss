@@ -7,7 +7,7 @@ I designed World_Abyss with inspirational cues from the modern flat industrial d
 
 Instructions to execute the application is shown in the requirements.txt document. 
 
-**To run this python desktop application, drop me and email as referenced from my profile to request for me to sendover an additional image directory as well as a configuration py file. These 2 items are necessary for the application to execute properly.***
+**To run this python desktop application, drop me an email as referenced from my profile to request for me to sendover an additional image directory as well as a configuration py file. These 2 items are necessary for the application to execute properly.***
 
 Several screenshots of World_Abyss at runtime:
 
