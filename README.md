@@ -1,2 +1,5 @@
 # Project-World-Abyss
-A modern and simple desktop app designed for learning more about the places all around the world. Fully made with PyQt5.
+Welcome to the abyss, where you can learn about continents, countries and cities. 
+World_Abyss is made through experimentation using Python's GUI library such as PyQt5. 
+People say GUI is not a strength of Python, but here they will be proven wrong. 
+
