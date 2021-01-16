@@ -1,0 +1,9 @@
+Requirements.txt
+
+-To run the application:
+1. Clone the project from the GitHub Repo
+2. Send me an email at marcus.2188@gmail.com to request send over of the extra folders
+3. Extra Folders: /testimages and resource_rc.py
+4. Place these 2 items in the same directory as the maincode.py file
+5. Execute maincode.py in python3 console.
+6. Enjoy.
